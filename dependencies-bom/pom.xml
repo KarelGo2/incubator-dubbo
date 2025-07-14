@@ -8,7 +8,7 @@
         <groupId>org.sonatype.oss</groupId>
         <artifactId>oss-parent</artifactId>
         <version>7</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <groupId>com.alibaba</groupId>
@@ -105,7 +105,7 @@
         <jcl_version>1.2</jcl_version>
         <log4j_version>1.2.16</log4j_version>
         <logback_version>1.2.2</logback_version>
-        <commons_lang3_version>3.4</commons_lang3_version>
+        <commons_lang3_version>3.18.0</commons_lang3_version>
         <embedded_redis_version>0.6</embedded_redis_version>
     </properties>
 
