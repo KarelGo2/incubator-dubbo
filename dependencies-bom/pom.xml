@@ -8,7 +8,7 @@
         <groupId>org.sonatype.oss</groupId>
         <artifactId>oss-parent</artifactId>
         <version>7</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <groupId>com.alibaba</groupId>
@@ -99,7 +99,7 @@
 
         <rs_api_version>2.0</rs_api_version>
         <resteasy_version>3.0.19.Final</resteasy_version>
-        <tomcat_embed_version>8.0.11</tomcat_embed_version>
+        <tomcat_embed_version>9.0.106</tomcat_embed_version>
         <!-- Log libs -->
         <slf4j_version>1.7.25</slf4j_version>
         <jcl_version>1.2</jcl_version>
